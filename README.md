@@ -5,8 +5,8 @@ Easily create JUnit .xml files from test logs.
 ### Command
 logs2junit.exe [test-type] [module-test-name] [total-tests] [failed-tests] [target-file-path] [opt-param:total-tests-file-path] [opt-param:failed-tests-file-path] [opt-param:error-tests-file-path]
 
-####Example:
-> logs2junit.exe "Regression" "Kernel System" 10 2 D:\test\KernelSystemTest.xml D:\test\KernelSystem_TotalTests.log D:\test\KernelSystem_FailedTests.log D:\test\KernelSystem_ErrorTests.log
+#### Example:
+> **logs2junit.exe** "Regression" "Kernel System" 10 2 D:\test\KernelSystemTest.xml D:\test\KernelSystem_TotalTests.log D:\test\KernelSystem_FailedTests.log D:\test\KernelSystem_ErrorTests.log
 
 ### Syntax
 **[test-type]** = the type of the tests. Example: Regression Tests
@@ -34,4 +34,5 @@ The first two opt-param are preliminary if you want to have all the tests (passe
 The last opt-param is needed only you want to have the errors for each test which have failed. If is not provided / the file path is null / file is empty, the error field will be blank.
 
 **Check test folder to see how total-test-file, failed-test-file and error-test-file showld look.**
+
 For more details, please contact me :)
