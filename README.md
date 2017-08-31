@@ -35,4 +35,6 @@ The last opt-param is needed only you want to have the errors for each test whic
 
 **Check test folder to see how total-test-file, failed-test-file and error-test-file showld look.**
 
-For more details, please contact me :)
+For more details, please contact me (alen.smailovic@gmail.com)
+
+**Enjoy!**
