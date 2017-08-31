@@ -1,0 +1,5 @@
+D:\Projects\logs2junit\logs2junit\bin\Debug\logs2junit.exe.config
+D:\Projects\logs2junit\logs2junit\bin\Debug\logs2junit.exe
+D:\Projects\logs2junit\logs2junit\bin\Debug\logs2junit.pdb
+D:\Projects\logs2junit\logs2junit\obj\Debug\logs2junit.exe
+D:\Projects\logs2junit\logs2junit\obj\Debug\logs2junit.pdb

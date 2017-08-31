@@ -1,0 +1,6 @@
+D:\Projects\logs2junit\logs2junit\bin\Release\logs2junit.exe.config
+D:\Projects\logs2junit\logs2junit\bin\Release\logs2junit.exe
+D:\Projects\logs2junit\logs2junit\bin\Release\logs2junit.pdb
+D:\Projects\logs2junit\logs2junit\obj\Release\logs2junit.exe
+D:\Projects\logs2junit\logs2junit\obj\Release\logs2junit.pdb
+D:\Projects\logs2junit\logs2junit\obj\Release\logs2junit.csprojResolveAssemblyReference.cache
