@@ -4,3 +4,9 @@ D:\Projects\logs2junit\logs2junit\bin\Release\logs2junit.pdb
 D:\Projects\logs2junit\logs2junit\obj\Release\logs2junit.exe
 D:\Projects\logs2junit\logs2junit\obj\Release\logs2junit.pdb
 D:\Projects\logs2junit\logs2junit\obj\Release\logs2junit.csprojResolveAssemblyReference.cache
+D:\Proiecte\logs2junit\logs2junit\bin\Release\logs2junit.exe.config
+D:\Proiecte\logs2junit\logs2junit\bin\Release\logs2junit.exe
+D:\Proiecte\logs2junit\logs2junit\bin\Release\logs2junit.pdb
+D:\Proiecte\logs2junit\logs2junit\obj\Release\logs2junit.csprojResolveAssemblyReference.cache
+D:\Proiecte\logs2junit\logs2junit\obj\Release\logs2junit.exe
+D:\Proiecte\logs2junit\logs2junit\obj\Release\logs2junit.pdb

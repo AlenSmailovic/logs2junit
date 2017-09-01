@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>icons8-Handle With Care-96.ico</ApplicationIcon>
+    <ApplicationIcon>logs2junit.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <StartupObject>logs2junit.Program</StartupObject>
@@ -56,7 +56,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="icons8-Handle With Care-96.ico" />
+    <Content Include="logs2junit.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
