@@ -1,4 +1,4 @@
-## logs2junit
+## logs2junit ![logs2junit.ico](https://github.com/AlenSmailovic/logs2junit/blob/master/logs2junit/logs2junit.ico)
 ### About
 Easily create JUnit .xml files from test logs.
 
