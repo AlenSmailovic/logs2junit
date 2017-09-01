@@ -1,6 +1,7 @@
 ## logs2junit
 ### About
 Easily create JUnit .xml files from test logs.
+Download the tool [HERE] (https://github.com/AlenSmailovic/logs2junit/blob/master/logs2junit/bin/Release/logs2junit.exe?raw=true) ( x64 version ) - for x86, please download the repo and build it :)
 
 ### Command
 logs2junit.exe [test-type] [module-test-name] [total-tests] [failed-tests] [target-file-path] [opt-param:total-tests-file-path] [opt-param:failed-tests-file-path] [opt-param:error-tests-file-path]
